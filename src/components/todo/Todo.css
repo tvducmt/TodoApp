@@ -1,0 +1,23 @@
+.content-left {
+    padding-top: 15px;
+    padding-left: 15px;
+    float: left;
+    width: 70%;
+    height: 100%;
+  }
+  .content-right {
+    width: 30%;
+    height: 100%;
+    float:right;
+  }
+  .btn.btn-default.icon {
+    margin: 9px;
+    margin-top: 25px;
+    float: right;
+   }
+   .btn.btn-default.icon.delete {
+     background: red;
+   }
+   /* .glyphicon.glyphicon-remove {
+    
+   } */
